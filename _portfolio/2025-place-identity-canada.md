@@ -10,7 +10,7 @@ The main finding is that place-based consciousness is not a single force favouri
 
 ## A sudden break in 2019
 
-![](/images/canada-1.png)
+![](/images/URBAN_VOTE_ALL_PROVFE.png)
 
 *Effect of riding urbanity (0 = least urban, 1 = most urban) on voting Conservative (navy circles), Liberal (red diamonds) and NDP (orange triangles), by election. Hollow markers include province fixed effects only; filled markers add socio-demographic controls. Bars are 95% confidence intervals.*
 
@@ -18,7 +18,7 @@ After a decade of stability, the effect of living in an urban riding jumps in 20
 
 ## Identity and resentment work differently
 
-![](/images/canada-2.png)
+![](/images/coefplot_rural_suburban_urban.png)
 
 *Coefficients from separate models of Conservative voting in 2025 among respondents who identify their place as rural (hollow circles), suburban (triangles) or urban (filled circles). Horizontal lines are 95% confidence intervals.*
 
@@ -26,7 +26,7 @@ Place-based resentment predicts Conservative voting in all three groups, but the
 
 ## Resentment: same direction, steeper slope in rural Canada
 
-![](/images/canada-3.png)
+![](/images/margins_pbr_r_u.png)
 
 *Predicted probability of voting Conservative by level of place-based resentment, for rural (light dashed) and urban (dark dash-dot) identifiers, with 95% confidence intervals.*
 
@@ -34,7 +34,7 @@ At low levels of resentment, rural and urban identifiers are equally (un)likely 
 
 ## Identity: opposite effects for rural and urban Canadians
 
-![](/images/canada-4.png)
+![](/images/images/margins_pbi_r_u.png)
 
 *Predicted probability of voting Conservative by strength of place-based identity, for rural and urban identifiers.*
 
