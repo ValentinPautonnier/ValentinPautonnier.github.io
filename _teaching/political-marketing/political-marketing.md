@@ -2,7 +2,7 @@
 title: "Political Marketing"
 collection: teaching
 type: "Undergraduate course, instructor"
-permalink: /teaching/political-marketing
+permalink: /teaching
 venue: "Université de Montréal, Department of Political Science"
 date: 2026-01-01
 location: "Montréal, Canada"
