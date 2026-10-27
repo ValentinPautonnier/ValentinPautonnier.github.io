@@ -34,7 +34,7 @@ At low levels of resentment, rural and urban identifiers are equally (un)likely 
 
 ## Identity: opposite effects for rural and urban Canadians
 
-![](/images/images/margins_pbi_r_u.png)
+![](/images/margins_pbi_r_u.png)
 
 *Predicted probability of voting Conservative by strength of place-based identity, for rural and urban identifiers.*
 
